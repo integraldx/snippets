@@ -1,0 +1,4 @@
+
+class rb_tree {
+
+}
